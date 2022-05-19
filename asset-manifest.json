@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://harsh9975.github.io/csb-c2j6kw/static/css/main.ea6fdc3b.chunk.css",
-    "main.js": "https://harsh9975.github.io/csb-c2j6kw/static/js/main.61756bd3.chunk.js",
-    "main.js.map": "https://harsh9975.github.io/csb-c2j6kw/static/js/main.61756bd3.chunk.js.map",
+    "main.css": "https://harsh9975.github.io/csb-c2j6kw/static/css/main.096cc9a0.chunk.css",
+    "main.js": "https://harsh9975.github.io/csb-c2j6kw/static/js/main.385c8c66.chunk.js",
+    "main.js.map": "https://harsh9975.github.io/csb-c2j6kw/static/js/main.385c8c66.chunk.js.map",
     "runtime-main.js": "https://harsh9975.github.io/csb-c2j6kw/static/js/runtime-main.3a2976ea.js",
     "runtime-main.js.map": "https://harsh9975.github.io/csb-c2j6kw/static/js/runtime-main.3a2976ea.js.map",
     "static/js/2.9718f397.chunk.js": "https://harsh9975.github.io/csb-c2j6kw/static/js/2.9718f397.chunk.js",
     "static/js/2.9718f397.chunk.js.map": "https://harsh9975.github.io/csb-c2j6kw/static/js/2.9718f397.chunk.js.map",
     "index.html": "https://harsh9975.github.io/csb-c2j6kw/index.html",
-    "static/css/main.ea6fdc3b.chunk.css.map": "https://harsh9975.github.io/csb-c2j6kw/static/css/main.ea6fdc3b.chunk.css.map",
+    "static/css/main.096cc9a0.chunk.css.map": "https://harsh9975.github.io/csb-c2j6kw/static/css/main.096cc9a0.chunk.css.map",
     "static/js/2.9718f397.chunk.js.LICENSE.txt": "https://harsh9975.github.io/csb-c2j6kw/static/js/2.9718f397.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a2976ea.js",
     "static/js/2.9718f397.chunk.js",
-    "static/css/main.ea6fdc3b.chunk.css",
-    "static/js/main.61756bd3.chunk.js"
+    "static/css/main.096cc9a0.chunk.css",
+    "static/js/main.385c8c66.chunk.js"
   ]
 }
